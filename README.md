@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![CodeWar](https://www.codewars.com/users/WeiYun/badges/large)
+![CodeWar](https://www.codewars.com/users/HaojieDu/badges/large)
 
 </div>
 
