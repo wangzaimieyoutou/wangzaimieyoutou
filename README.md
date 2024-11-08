@@ -12,7 +12,6 @@
 
 - [x] NLP
 - [x] LLM
-- [x] python
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
