@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haojie Du Yeh<br><br> <img src="https://komarev.com/ghpvc/?username=wangzaimieyoutou&style=for-the-badge"></h1>
+<h1 align="center">Hi 👋, I'm Haojie Du <br><br> <img src="https://komarev.com/ghpvc/?username=wangzaimieyoutou&style=for-the-badge"></h1>
 
 - 💻 [My Website](https://github.com/wangzaimieyoutou)
 
