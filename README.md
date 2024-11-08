@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **hggyuj427@gmail.com**
 
-<h2 align="center">CodeWar</h2>
 
 <h2 align="center">📓 Todo </h2>  
 
