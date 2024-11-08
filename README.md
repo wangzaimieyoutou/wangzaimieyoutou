@@ -15,12 +15,12 @@
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   <img alt="python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img alt="c++" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img alt="jupyter" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img alt="BERT" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-   <img alt="LSTM" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="SEG" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+   <img alt="python" src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img alt="c++" src="https://img.shields.io/badge/c++-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img alt="BERT" src="https://img.shields.io/badge/BERT-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+   <img alt="LSTM" src="https://img.shields.io/badge/LSTM-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="SEG" src="https://img.shields.io/badge/SEG-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
