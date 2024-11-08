@@ -14,7 +14,7 @@
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
-   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge" />
    <img alt="python" src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="c++" src="https://img.shields.io/badge/c++-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img alt="jupyter" src="https://img.shields.io/badge/jupyter-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
