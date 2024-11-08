@@ -8,12 +8,6 @@
 
 <h2 align="center">CodeWar</h2>
 
-<div align="center">
-  
-![CodeWar](https://www.codewars.com/users/HaojieDu/badges/large)
-
-</div>
-
 <h2 align="center">📓 Todo </h2>  
 
 - [x] NLP
