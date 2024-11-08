@@ -2,9 +2,7 @@
 
 - 💻 [My Website](https://github.com/wangzaimieyoutou)
 
-- 🎥 [My Youtube Channel](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw)
-
-- 🌱 I’m currently learning **web technology**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **hggyuj427@gmail.com**
 
@@ -18,14 +16,9 @@
 
 <h2 align="center">📓 Todo </h2>  
 
-- [x] CSS Grid
-- [x] tRPC
-- [x] TypeScript
-- [x] React Native Rapid API
-- [x] Tailwind CSS 
-- [x] TypeScript + ZOD
-- [x] 3D Portfolio
-- [x] Github Action Auto Update README.md
+- [x] NLP
+- [x] LLM
+- [x] python
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
