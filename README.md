@@ -30,4 +30,5 @@
 </p>
 
 <h2 align="center">📓 Paper </h2>  
-**Continuing** TCM dialectics of pancreatic cancer based on natural language processing
+
+**Continuing**  TCM dialectics of pancreatic cancer based on natural language processing
