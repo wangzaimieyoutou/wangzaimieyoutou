@@ -11,6 +11,7 @@
 
 - [x] NLP
 - [x] LLM
+- [x] CV
 
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
