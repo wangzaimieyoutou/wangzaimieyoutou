@@ -36,6 +36,7 @@
 
 <h2 align="center">📓 Essay </h2>  
 
+https://formative.jmir.org/2025/1/e70602
 Everything I do follows my heart and intrest，If we have the same interest, please feel free to discuss with me. My current main area is the application of natural language processing in the medical field and exploring the interpretability of the model. In the future, I will study multimodal models and LLM.
 
 **Notice ：** I am also very interested in youth mental health therapy and am paying attention to related projects in this area. If I can help you in this regard, please feel free to contact me. It's not a bother for me.
